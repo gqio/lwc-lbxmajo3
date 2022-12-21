@@ -1,0 +1,7 @@
+{
+  "name": "@lwc-studio/gqio.lwc-lbxmajo3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx lwc-cli@latest serve rUnZMTGzcCZCafROIHN0 --open"
+  }
+}
